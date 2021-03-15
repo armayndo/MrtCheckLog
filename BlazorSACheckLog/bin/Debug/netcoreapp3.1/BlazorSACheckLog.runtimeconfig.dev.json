@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\romadhona.armayndo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\romadhona.armayndo\\.nuget\\packages"
+    ]
+  }
+}
